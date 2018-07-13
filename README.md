@@ -1,2 +1,1 @@
-# myblog
-Starting point ……
+﻿## 初始化项目。
